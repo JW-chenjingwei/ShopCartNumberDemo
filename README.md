@@ -8,5 +8,7 @@
 * 支持增加倍数（小数和整数都支持）
 * 支持长按不断增加/减少
 * 支持数量直接编辑
-![image](https://github.com/JW-chenjingwei/ShopCartNumberDemo/blob/master/%E6%BC%94%E7%A4%BA%E6%95%88%E6%9E%9C.gif)
+
+
+![image](https://github.com/JW-chenjingwei/ShopCartNumberDemo/blob/master/show.gif)
 
